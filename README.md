@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Papakobina
 - 👀 I’m interested in machine learning and fullstack development
-- 🌱 I’m currently learning javasciprt and react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently looking for a position in data sceience and machine learning to expand on my skills
+- 📫 How to reach me kobinaaggrey14@gmail.com or pkkwegyi@uwaterloo.ca
 
 <!---
 Papakobina/Papakobina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
