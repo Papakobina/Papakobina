@@ -4,6 +4,13 @@
 <p align="Center"> - 🔭 I’m a curious First-year student Looking to learn and grow my skills set </p>
 <p align="Center"> - 🌱I am currently learning about machine learning tools like Tensorflow, Opencv </p>
 <p align="Center"> - 📫 How to reach me kobinaaggrey14@gmail.com or pkkwegyi@uwaterloo.ca </p>
+
+<a color="white" href="https://www.linkedin.com/in/papa-kobina-kwegyir-aggrey-3a0754233/">
+   <p>
+  <img  width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  PapaKobina Linkedin Here! 
+  </p>
+</a>
 <br>
                     
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
