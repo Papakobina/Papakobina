@@ -4,12 +4,9 @@
 <p align="Center"> - 🔭 I’m a curious First-year student Looking to learn and grow my skills set </p>
 <p align="Center"> - 🌱I am currently learning about machine learning tools like Tensorflow, Opencv </p>
 <p align="Center"> - 📫 How to reach me kobinaaggrey14@gmail.com or pkkwegyi@uwaterloo.ca </p>
-<p></p>
+<br>
                     
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p></p>
-<p></p>
-
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -30,3 +27,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" />
 </p>
 
+<br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"> </p>
