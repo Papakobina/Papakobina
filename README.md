@@ -28,4 +28,10 @@
 </p>
 
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"> </p>
+<p> 
+<div>
+<p align="left">  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papakobina&layout=compact"> </p>
+</div>
+
+</p>
