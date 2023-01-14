@@ -30,8 +30,11 @@
 <br>
 <p> 
 <div>
-<p align="left">  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papakobina&layout=compact"> </p>
+
+<p align="left">  
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papakobina&layout=compact"> 
+</p>
 </div>
 
 </p>
