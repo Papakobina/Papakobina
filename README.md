@@ -27,4 +27,6 @@
 </p>
 <br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Papakobina" /> 
+<h3>Other Contacts: </h3>
+<a href="https://www.linkedin.com/in/papa-kobina-kwegyir-aggrey-3a0754233/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/></a>
 
