@@ -1,12 +1,10 @@
 <h1 align="Center">Hi👋, I am Papa Kobina</h1>
 <h3 align="Center"> A tech-enthusiast studying computer engineering at the university of Waterloo!</h3>
-<p></p>
 <p align="Center"> - 🔭 I’m a curious First-year student Looking to learn and grow my skills set </p>
 <p align="Center"> - 🌱I am currently learning about machine learning tools like Tensorflow, Opencv </p>
 <p align="Center"> - 📫 How to reach me kobinaaggrey14@gmail.com or pkkwegyi@uwaterloo.ca </p>
 
-<br>
-                    
+             
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
@@ -27,8 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" />
 </p>
-
 <br>
-<p> 
-<div>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Papakobina" /> 
 
