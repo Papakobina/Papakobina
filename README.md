@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" />
 </p>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Papakobina" /> 
 <br>
 
