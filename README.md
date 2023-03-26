@@ -6,6 +6,7 @@
 <p align="Center"> - 🌱I am currently learning about machine learning tools like Tensorflow, Opencv </p>
 <p align="Center"> - 📫 How to reach me kobinaaggrey14@gmail.com or pkkwegyi@uwaterloo.ca </p>
 
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
