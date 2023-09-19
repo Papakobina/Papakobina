@@ -35,7 +35,7 @@
 
 <br>
 
-<h1>📽️Projects: </h1>
+<h1>📽️ Some Projects: </h1>
 
 <li><a href='https://github.com/Papakobina/HousePricePredictions'> House price prediction using a Neural Network</a></li>
 <li><a href='https://github.com/Papakobina/Lane-Detection'>Lane detection using OpenCv</a></li>
