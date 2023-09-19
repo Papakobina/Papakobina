@@ -34,6 +34,10 @@
 </p>
 
 <br>
+
+<h1>📽️Projects: </h1>
+
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Papakobina" /> 
 <br>
