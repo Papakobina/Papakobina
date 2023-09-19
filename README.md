@@ -37,6 +37,11 @@
 
 <h1>📽️Projects: </h1>
 
+<li><a href='https://github.com/Papakobina/HousePricePredictions'> House price prediction using a Neural Network</a></li>
+<li><a href='https://github.com/Papakobina/Lane-Detection'>Lane detection using OpenCv</a></li>
+<li><a href='https://github.com/Papakobina/CreditCradFraudDetection/blob/main/CreditCradFraudDetection.ipynb'> Credit Crad fraud detection using Logistic Regression</a></li>
+<li><a href='https://github.com/Papakobina/SpamOrHam'> Spam classifier using a NLP model</a></li>
+
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Papakobina" /> 
