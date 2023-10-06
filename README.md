@@ -41,6 +41,7 @@
 <li><a href='https://github.com/Papakobina/Lane-Detection'>Lane detection using OpenCv</a></li>
 <li><a href='https://github.com/Papakobina/CreditCradFraudDetection/blob/main/CreditCradFraudDetection.ipynb'> Credit Crad fraud detection using Logistic Regression</a></li>
 <li><a href='https://github.com/Papakobina/SpamOrHam'> Spam classifier using a NLP model</a></li>
+<li><a href='https://github.com/Papakobina/Convolutional-Neural-Network-Cifar-10'>Convolutional-Neural-Network-Cifar-10</a></li>
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papakobina&show_icons=true&theme=radical"/>
