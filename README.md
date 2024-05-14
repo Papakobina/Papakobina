@@ -6,6 +6,8 @@
 <p align="Center"> - 🌱I am currently learning about machine learning tools like Tensorflow, Opencv</p>
 <p align="Center"> - 📫 How to reach me kobinaaggrey14@gmail.com or pkkwegyi@uwaterloo.ca </p>
 
+<h3>View My Website <a href='https://papakobina.github.io/Personal_website/'>HERE!</a></h3>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
@@ -32,8 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"  width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="45" height="45" />
 </p>
-
-<br>
 
 <h1>📽️ Some Projects: </h1>
 
