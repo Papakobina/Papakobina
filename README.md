@@ -9,6 +9,7 @@
 <h3>View My Website <a href='https://papakobina.github.io/Personal_website/'>HERE!</a></h3>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
