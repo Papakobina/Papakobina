@@ -39,6 +39,8 @@
 
 <h1>📽️ Some Projects: </h1>
 
+<li><a href='https://github.com/Papakobina/Study-Buddy'>NLP Study Buddy</a></li>
+<li><a href='https://github.com/Papakobina/AI_Voice_Assistant'> AI Voice Assitant</a></li>
 <li><a href='https://github.com/Papakobina/Documentation-Assitant'> Document Assitant Chatbot - LLM</a></li>
 <li><a href='https://github.com/Papakobina/Ice-Breaker'> Ice Breaker using Langchain</a></li>
 <li><a href='https://github.com/Papakobina/HousePricePredictions'> House price prediction using a Neural Network</a></li>
